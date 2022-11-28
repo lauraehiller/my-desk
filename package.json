@@ -1,7 +1,7 @@
 {
   "name": "my-desk",
   "version": "0.1.0",
-  "homepage": "https://lauraehiller.github.io/react-gh-pages",
+  "homepage": "https://lauraehiller.github.io/my_desk",
   "private": true,
   "dependencies": {
     "@react-three/drei": "^9.40.4",
@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "my_desk -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
