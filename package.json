@@ -15,7 +15,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "my_desk -d build",
+    "deploy": "my-desk -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
