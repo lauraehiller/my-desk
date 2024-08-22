@@ -3,6 +3,7 @@
 # 3D Model of my desk
 
 A fun project to learn React-three/fiber and practice modeling in Blender.
+https://lauraehiller.github.io/my_desk/
 
 ## Built With:
 
